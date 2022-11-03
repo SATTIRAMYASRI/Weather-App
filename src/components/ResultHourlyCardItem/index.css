@@ -1,0 +1,16 @@
+.eachItem-container {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+
+.each-time {
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.eachitem-date {
+  font-family: 'Roboto';
+  font-size: 20px;
+}

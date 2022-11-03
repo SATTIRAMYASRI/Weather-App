@@ -1,0 +1,35 @@
+.weather-app-container {
+  width: 98%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-size: cover;
+  text-align: center;
+  background-color: #73d2de;
+  margin-top: 5px;
+  margin-bottom: 70px;
+}
+.CitySelect {
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 0px;
+}
+.GetTempBtn {
+  background-color: red;
+  color: black;
+  padding: 5px;
+  border: 0px;
+  border-radius: 5px;
+}
+.GetTempBtn:hover {
+  background-color: orange;
+}
+
+.weather-app-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: black;
+  font-weight: 500;
+}
